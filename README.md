@@ -1,8 +1,7 @@
 # Flutter Test 
 A weight tracker app
 
-Requirements:
-
+# Requirements:
 Firebase Project
 
 Android/iOS app is added in firebase project

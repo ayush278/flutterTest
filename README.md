@@ -2,10 +2,15 @@
 A weight tracker app
 
 Requirements:
+
 Firebase Project
+
 Android/iOS app is added in firebase project
+
 Firestore should be enabled
+
 In Firebase under authentication -> Sign-in method -> Anonymous should be enabled
+
 Google service file should be added in  respective project
   
 
